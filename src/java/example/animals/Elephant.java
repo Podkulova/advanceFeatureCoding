@@ -1,4 +1,4 @@
-package example.abstractClass.animals;
+package example.animals;
 
 public class Elephant extends Animal {
 

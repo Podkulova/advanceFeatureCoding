@@ -1,10 +1,11 @@
-package example.abstractClass.animals;
+package example.animals;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Zoo {
     private List<Animal> animals = new ArrayList<>();
+
     public static void main(String[] args) {
         Zoo zoo = new Zoo();
 

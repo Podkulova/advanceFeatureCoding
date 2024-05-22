@@ -1,4 +1,4 @@
-package example.abstractClass.animals;
+package example.animals;
 
 public abstract class Animal {
     private int legCount;
